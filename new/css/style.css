@@ -1,0 +1,12 @@
+.container .row .col-12 .header input {
+  width: 200px;
+  height: 45px;
+  margin-top: 10%;
+}
+.container .row .col-12 .header input.position {
+  margin-left: 240px !important;
+}
+
+body {
+  height: 5000px;
+}
